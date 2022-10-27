@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=YoungSeob%20So&fontSize=90)
 <img width="100%" src="https://user-images.githubusercontent.com/116706308/198274247-24ab39b0-9036-4904-81b6-9705ec6832ed.jpg"/>
 
-<div align=center><h1>💻Tech Stacks💻</h1></div>
+<div align=center><h2>💻Tech Stacks💻</h2></div>
 
 <div align=center>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> 
@@ -48,10 +48,20 @@
   <br> -->  
 </div>
 
-<div align=center><h1>🛠️Github Stats🛠️</h1>
+<div align=center><h2>🎖️Ranking🎖️</h2></div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngseobso&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngseobso&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align=center>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=co_chang)](https://solved.ac/co_chang)
+</div>
+  
+
+<div align=center><h2>🛠️Github Stats🛠️</h2></div>
+
+<div align=center>
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngseobso&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngseobso&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
