@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YoungSeob%20So&fontSize=90)
-<img width="85%" src="https://user-images.githubusercontent.com/116706308/198274247-24ab39b0-9036-4904-81b6-9705ec6832ed.jpg"/>
+<img width="100%" src="https://user-images.githubusercontent.com/116706308/198274247-24ab39b0-9036-4904-81b6-9705ec6832ed.jpg"/>
 
 ### Hi there 👋
 <!--
