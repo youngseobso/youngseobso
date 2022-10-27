@@ -58,11 +58,8 @@
 
 <div align=center><h2>🛠️Github Stats🛠️</h2></div>
 
-<div align=center>
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngseobso&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngseobso&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngseobso&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngseobso&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
