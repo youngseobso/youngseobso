@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YoungSeob%20So&fontSize=90)
 <img width="100%" src="https://user-images.githubusercontent.com/116706308/198274247-24ab39b0-9036-4904-81b6-9705ec6832ed.jpg"/>
-
+<div align="center">
+  <h1>💻Tech Stacks💻</h1>
+</div>
 ### Hi there 👋
 <!--
 **youngseobso/youngseobso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
